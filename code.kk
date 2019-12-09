@@ -15,7 +15,7 @@ type participant {
   Pair(p1 : person, p2 : person)
 }
 
-// Eine Zuordnung besteht zwei Personen, 
+// Eine Zuordnung besteht aus zwei Personen, 
 // wobei die erste die zweite beschenkt.
 alias matching = (person, person)
 
